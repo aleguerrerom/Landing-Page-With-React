@@ -65,8 +65,9 @@ export function Home() {
 					<div className="row row-cols-md-4" w-100>
 						{CardinHtml}
 					</div>
-					<Footer />
 				</div>
+
+				<Footer />
 			</div>
 		</div>
 	);
